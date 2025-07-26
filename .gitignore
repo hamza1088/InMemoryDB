@@ -1,0 +1,13 @@
+# Build outputs
+/build/
+/CMakeFiles/
+/Makefile
+/*.cmake
+/*.o
+/*.a
+in_memory_db
+
+# IDE/editor backups
+*.swp
+*~
+.vscode/
