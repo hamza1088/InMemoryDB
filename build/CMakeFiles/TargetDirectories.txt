@@ -1,0 +1,3 @@
+/home/hamza/code/cpp/InMemoryDB/build/CMakeFiles/in_memory_db.dir
+/home/hamza/code/cpp/InMemoryDB/build/CMakeFiles/edit_cache.dir
+/home/hamza/code/cpp/InMemoryDB/build/CMakeFiles/rebuild_cache.dir
